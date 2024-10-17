@@ -1,0 +1,7 @@
+{
+  "name": "pinnet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
